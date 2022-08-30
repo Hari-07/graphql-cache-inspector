@@ -1,6 +1,6 @@
 name: graphql_cache_inspector
 description: A Flutter Plugin that helps to inspect the graphql cache on device.
-version: 0.0.1
+version: 0.0.1+2
 
 repository: https://github.com/sodality-tech/graphql-cache-inspector
 
@@ -24,13 +24,13 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-  plugin: 
-    platforms: 
-      android: 
-      ios: 
-      macos: 
-      windows: 
-      web: 
+
+platforms: 
+  android: 
+  ios: 
+  macos: 
+  windows: 
+  web: 
 
   # To add assets to your package, add an assets section, like this:
   # assets:

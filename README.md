@@ -11,8 +11,6 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-# Graphql Cache Inspector
-
 A Flutter Plugin that helps to inspect the graphql cache on device
 
 ## Features
